@@ -1,2 +1,2 @@
 # .emacs
-.emacs configuration file
+.emacs Init file
